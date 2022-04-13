@@ -5,4 +5,4 @@ This is a repo used to do circuit transpilation and opitmization for EURIQA syst
 
 
 # TODO
--[ ] Determine the main structure of the code.
+- [ ] Determine the main structure of the code.
